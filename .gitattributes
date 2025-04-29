@@ -10,3 +10,4 @@
 
 # Documentation
 *.md                text diff=markdown
+*.pdf               binary
