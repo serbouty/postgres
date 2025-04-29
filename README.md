@@ -1,4 +1,8 @@
-<h1 align="center">SQL Snippets</h1>
+<h1 align="center">PostgreSQL</h1>
+
+<p align="center">
+    <img src="docs/logo_postgres.png" width="359" height="370"  alt="Logo Postgres" />
+</p>
 
 <p align="center">
     <a href="https://www.postgresql.org/">
