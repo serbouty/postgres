@@ -2,9 +2,9 @@
 
 <p align="center">
     <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/postgres-17.4-blue?style=flat&logo=postgresql" alt="PostgreSQL Version 17.4" /></a>
+        <img src="https://img.shields.io/badge/postgres-17.4-blue?style=flat&logo=postgresql&logoColor=f5f5f5" alt="PostgreSQL Version 17.4" /></a>
     <a href="https://www.pgadmin.org/">
-        <img src="https://img.shields.io/badge/pgadmin-9-blue?style=flat&logo=postgresql" alt="pgAdmin Version 9" /></a>
+        <img src="https://img.shields.io/badge/pgadmin-9-blue?style=flat&logo=postgresql&logoColor=f5f5f5" alt="pgAdmin Version 9" /></a>
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-white?style=flat&logo=github"  alt="License MIT" /></a>
 </p>
